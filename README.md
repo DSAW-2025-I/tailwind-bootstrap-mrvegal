@@ -1,5 +1,5 @@
 # Stats preview card component solution
-
+![Design preview for the Stats preview card component coding challenge](./design/desktop-preview.jpg)
 ## Name: Juan Felipe Vega Loaiza
 
 ## Table of contents
@@ -10,7 +10,6 @@
   - [Links](#links)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -31,7 +30,7 @@ En este proyecto, creé una página que muestra una tarjeta de vista previa de e
 ### Links
 
 - Solution URL: [URL de github](https://github.com/DSAW-2025-I/tailwind-bootstrap-mrvegal.git)
-- Live Site URL: [Pagina desplegada]()
+- Live Site URL: [Pagina desplegada](https://dsaw-2025-i.github.io/tailwind-bootstrap-mrvegal/)
 
 ### Author
 Hecho por: Juan Felipe Vega Loaiza.
