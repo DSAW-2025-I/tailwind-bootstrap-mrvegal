@@ -17,8 +17,8 @@ En este proyecto, creé una página que muestra una tarjeta de vista previa de e
 
 ### The challenge
 
-- One for bootstrap: [bootstrap version](http://127.0.0.1:5500/bootstrap.html)
-- One for tailwind: [Tailwind version](http://127.0.0.1:5500/tailwind.html)
+- One for bootstrap: [bootstrap version](https://dsaw-2025-i.github.io/tailwind-bootstrap-mrvegal/bootstrap.html)
+- One for tailwind: [Tailwind version](https://dsaw-2025-i.github.io/tailwind-bootstrap-mrvegal/tailwind.html)
 
 ### Screenshot
 
